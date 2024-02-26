@@ -1,0 +1,12 @@
+[
+  {
+    "role": "Full-stack Web Developer",
+    "organisation": "Harisenin Bootcamp",
+    "startDate": "July, 2023",
+    "endDate": "December, 2023",
+    "experiences": [
+      "Relevant Course works: JavaScript, React.js, Node.js, Express.js, and any other fullstack framework."
+    ],
+    "imageSrc": "history/hariseninIcon.png"
+  }
+]

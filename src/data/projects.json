@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Web Hotel",
+    "imageSrc": "projects/hotel.png",
+    "description": "This website build for booking hotel service",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://dashboard-admin-two-kohl.vercel.app/",
+    "source": "https://github.com/bootcamp-8/dashboard-admin"
+  },
+  {
+    "title": "Dashboard Admin",
+    "imageSrc": "projects/dashboard.png",
+    "description": "This web for admin dashboard, related to 'My Hotel' project",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://dashboard-admin-ver-2-react.vercel.app/login",
+    "source": "https://github.com/zikran69/dashboard-admin-ver.2"
+  },
+  {
+    "title": "Tic-tac-toe",
+    "imageSrc": "projects/tictactoe.png",
+    "description": "This website build for Tic Tac Toe by ReactJs.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://rizqiau.github.io/react-tic-tac-toe/",
+    "source": "https://github.com/rizqiau/react-tic-tac-toe"
+  }
+]
