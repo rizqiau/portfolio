@@ -22,5 +22,13 @@
     "skills": ["React", "HTML", "CSS"],
     "demo": "https://rizqiau.github.io/simple-blog/",
     "source": "https://github.com/rizqiau/simple-blog"
+  },
+  {
+    "title": "React Tick-Tac-Toe",
+    "imageSrc": "projects/tictactoe.png",
+    "description": "Simple Tic-Tac-Toe with React.js",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://rizqiau.github.io/react-tic-tac-toe/",
+    "source": "https://github.com/rizqiau/react-tic-tac-toe"
   }
 ]
