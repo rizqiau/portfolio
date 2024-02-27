@@ -16,11 +16,11 @@
     "source": "https://github.com/zikran69/dashboard-admin-ver.2"
   },
   {
-    "title": "Tic-tac-toe",
-    "imageSrc": "projects/tictactoe.png",
-    "description": "This website build for Tic Tac Toe by ReactJs.",
+    "title": "Simple Blog",
+    "imageSrc": "projects/blog.png",
+    "description": "Simple blog with google authentication with firebase",
     "skills": ["React", "HTML", "CSS"],
-    "demo": "https://rizqiau.github.io/react-tic-tac-toe/",
-    "source": "https://github.com/rizqiau/react-tic-tac-toe"
+    "demo": "https://rizqiau.github.io/simple-blog/",
+    "source": "https://github.com/rizqiau/simple-blog"
   }
 ]
